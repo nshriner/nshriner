@@ -1,4 +1,18 @@
-### Hi there 👋
+# Nathan Shriner
+
+## Major
+Visual Communication Design at EWU
+
+## Skills
+* Web Design
+* Graphic Design
+* Illustration
+
+## Superpower
+Always shows up on time with one minute to spare.
+
+
+
 
 <!--
 **nshriner/nshriner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
